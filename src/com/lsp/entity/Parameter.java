@@ -3,10 +3,11 @@ package com.lsp.entity;
 /**
  * @ClassName: Parameter
  * @Description:
- * @Author: lisipeng
+ * @Author: lisipeng001
  * @Date: 2022/10/3 9:37
  */
 public class Parameter {
+    //git 修改
     private String field;
     private Object value;
     private String operator;
